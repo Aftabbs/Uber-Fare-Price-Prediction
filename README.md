@@ -22,7 +22,10 @@ Cleaning: Any missing or irrelevant data was removed or filled appropriately.
 # Feature Engineering:
 Distance Travelled: Calculated the distance between pickup and dropoff coordinates using appropriate formulas.
 Extracted additional temporal features from the pickup_datetime column, such as month, year, day of the week, and pickup hour.
+![image](https://github.com/Aftabbs/Uber-Fare-Price-Prediction/assets/112916888/b242aa0c-2462-4ccc-8cdc-e9840e219955)
+
 Exploratory Data Analysis
+
 Performed exploratory data analysis to gain insights into the dataset and the relationship between different variables. Some of the aspects visualized include:
 ![image](https://github.com/Aftabbs/Uber-Fare-Price-Prediction/assets/112916888/2dace326-eea3-4744-80f0-074bcf20e769)
 
